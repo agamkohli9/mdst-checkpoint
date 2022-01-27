@@ -1,3 +1,5 @@
 Hi! My name is Agam Kohli and I'm a sophomore studying CS at
 the College of Engineering. A fun fact about me is that I can solve
-a Rubik's Cube in under 20 seconds.
+a Rubik's Cube in under 20 seconds. I decided to join MDST because
+I absolutely loved EECS 445 and want to get more Data Science
+exposure.
